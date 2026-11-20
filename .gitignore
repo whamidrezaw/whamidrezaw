@@ -1,0 +1,6 @@
+# Local setup guide (keep out of public profile repo)
+PROFILE_SETUP_GUIDE.md
+
+# OS files
+.DS_Store
+Thumbs.db
